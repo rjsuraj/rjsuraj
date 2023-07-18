@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm suraj
+Hi 👋, I'm suraj
 🌱 I’m currently learning MERN Stack<br>🤝 I’m looking for a good job opportunity.<br>👨‍💻Portfolio : https://surajmandal.me<br>📫 Mail : rjsurajmandal@gmail.com
 
 
